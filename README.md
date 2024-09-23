@@ -47,21 +47,22 @@ This repository highlights my research work across **Geospatial Data Science**, 
 
 <p align="center">
   <a href="link-to-book-details-1">
-    <img src="https://github.com/ericvaz/portfolio/blob/main/1.jpg" alt="Regional Intelligence" width="150"/>
+    <img src="https://github.com/ericvaz/portfolio/blob/main/1.jpg" alt="Regional Intelligence" width="150" style="margin-right: 20px;"/>
   </a>
   <a href="link-to-book-details-2">
-    <img src="https://github.com/ericvaz/portfolio/blob/main/2.jpg" alt="Geography of Happiness" width="150"/>
+    <img src="https://github.com/ericvaz/portfolio/blob/main/2.jpg" alt="Geography of Happiness" width="150" style="margin-right: 20px;"/>
   </a>
   <a href="link-to-book-details-3">
-    <img src="https://github.com/ericvaz/portfolio/blob/main/3.jpg" alt="Regional and Urban Change and Geographical Information Systems and Science" width="150"/>
+    <img src="https://github.com/ericvaz/portfolio/blob/main/3.jpg" alt="Regional and Urban Change and Geographical Information Systems and Science" width="150" style="margin-right: 20px;"/>
   </a>
-  <a href="link-to-book-details-3">
-    <img src="https://github.com/ericvaz/portfolio/blob/main/4.jpg" alt="Sustainable Development in Southern Europe" width="150"/>
+  <a href="link-to-book-details-4">
+    <img src="https://github.com/ericvaz/portfolio/blob/main/4.jpg" alt="Sustainable Development in Southern Europe" width="150" style="margin-right: 20px;"/>
   </a>
-  <a href="link-to-book-details-3">
-    <img src="https://github.com/ericvaz/portfolio/blob/main/5.jpg" alt="Resilience and Regional Dynamics" width="150"/>
+  <a href="link-to-book-details-5">
+    <img src="https://github.com/ericvaz/portfolio/blob/main/5.jpg" alt="Resilience and Regional Dynamics" width="150" style="margin-right: 20px;"/>
   </a>
 </p>
+
 
 
 ---
