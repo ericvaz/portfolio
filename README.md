@@ -43,11 +43,27 @@ This repository highlights my research work across **Geospatial Data Science**, 
 
 
 ---
-- **Books:**
-  You can find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=EfpbSEYAAAAJ&hl=en)
+**Books:**
+
+<p align="center">
+  <a href="link-to-book-details-1">
+    <img src="link-to-book-cover-image-1" alt="Book Title 1" width="150"/>
+  </a>
+  <a href="link-to-book-details-2">
+    <img src="link-to-book-cover-image-2" alt="Book Title 2" width="150"/>
+  </a>
+  <a href="link-to-book-details-3">
+    <img src="link-to-book-cover-image-3" alt="Book Title 3" width="150"/>
+  </a>
+</p>
+
+<p align="center">
+  *Book Title 1* | *Book Title 2* | *Book Title 3*
+</p>
+
 ---
 
-- **Publications:**
-  You can find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=EfpbSEYAAAAJ&hl=en)
+**Publications:**
+You can find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=EfpbSEYAAAAJ&hl=en)
 
 ---
