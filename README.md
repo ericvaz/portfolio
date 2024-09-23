@@ -26,7 +26,7 @@ This repository highlights my research work across **Geospatial Data Science**, 
 
 ---
 
-**Key Themes:**
+### 🔑 **Key Themes:**
 
 **[Health Mapping](link-to-repo):** Developed scalable solutions to geocode and analyze healthcare data (e.g., Canadian National Ambulatory Care Reporting System), transforming SAS datasets into geospatial formats for advanced analytics. Deployed a secure WebGIS platform for census-level topological analysis, enabling real-time insights.  
   **Methods:** SAS to GIS conversion, spatial databases, topological analysis, WebGIS development.
