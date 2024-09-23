@@ -3,26 +3,31 @@
 **ScholarGPS World Ranking: #18 for Geospatial Analysis / Habitats**  
 **Geospatial Data Scientist | Graduate Program Director | Director of the Laboratory for Geocomputation | Full Professor**
 
-*Always Coding, Always Mapping, Always Learning*
+*Motto: Always Coding, Always Mapping, Always Learning*
 
 ---
 
 ### Welcome to My Research Portfolio
 
-This repository highlights my research work across **Geospatial Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Spatial Analysis**. With over 80 publications, my research focuses on applying spatial analysis to areas such as **regional planning**, **geospatial optimization**, and **complex systems** and **business intelligence**. Below, you will find links to key projects, publications, and code used in my work.
+This repository highlights my research work across **Geospatial Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Spatial Analysis**. With over 80 publications, my research focuses on applying spatial analysis to areas such as **regional planning**, **geospatial optimization**, **complex systems**, and **business intelligence**. I am passionate about leveraging data to drive impactful real-world solutions, and my work spans health mapping, climate change, transportation, and more.
+
+Below, you will find links to key projects, publications, and code used in my work.
 
 ---
 
 ### 📂 **Portfolio Overview**
 
 - **Areas of Expertise:**
-  - Geospatial and Spatial Data Science
-  - Machine Learning and AI
-  - Developing Scalable Algorithms for Big Data
-  - Cloud-Based Data Solutions
-  - Predictive Analytics and Decision Support Systems
-  - Business Intelligence and Market Analytics
-  - Automation and Optimization of Processes using AI and ML
+  - **Technical Skills:**
+    - Machine Learning and AI
+    - Cloud-Based Data Solutions
+    - Predictive Analytics and Decision Support Systems
+    - Automation and Optimization of Processes using AI and ML
+  - **Domain Expertise:**
+    - Geospatial and Spatial Data Science
+    - Regional and Urban Planning
+    - Environmental Sustainability
+    - Business Intelligence and Market Analysis
 
 ---
 
@@ -53,6 +58,7 @@ This repository highlights my research work across **Geospatial Data Science**, 
   **Methods:** SDSS, AI for policy analysis, multi-agent systems, real-time geospatial data, smart governance algorithms.
 
 ---
+
 ### 📚 **Books**
 
 <p align="center">
@@ -72,7 +78,6 @@ This repository highlights my research work across **Geospatial Data Science**, 
     <img src="https://github.com/ericvaz/portfolio/blob/main/5.jpg" alt="Resilience and Regional Dynamics" width="150"/>
   </a>
 </p>
-
 
 ---
 
