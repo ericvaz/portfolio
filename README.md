@@ -26,34 +26,34 @@ This repository highlights my research work across **Geospatial Data Science**, 
 
 ---
 
-### 🔑 **Key Themes:**
+### 🔑 **Key Themes**
 
-**[Health Mapping](link-to-repo):** Developed scalable solutions to geocode and analyze healthcare data (e.g., Canadian National Ambulatory Care Reporting System), transforming SAS datasets into geospatial formats for advanced analytics. Deployed a secure WebGIS platform for census-level topological analysis, enabling real-time insights.  
+  **[Health Mapping](link-to-repo):** Developed scalable solutions to geocode and analyze healthcare data (e.g., Canadian National Ambulatory Care Reporting System), transforming SAS datasets into geospatial formats for advanced analytics. Deployed a secure WebGIS platform for census-level topological analysis, enabling real-time insights.  
   **Methods:** SAS to GIS conversion, spatial databases, topological analysis, WebGIS development.
 
-**[Cities and Cells](link-to-repo):** Created sophisticated urban growth prediction models using **machine learning**, **heuristic analysis**, **Markov models**, and **media data mining**. Applied **predictive analytics** and **cellular automata** to simulate land-use and transportation patterns, providing city planners with real-time insights.  
+  **[Cities and Cells](link-to-repo):** Created sophisticated urban growth prediction models using **machine learning**, **heuristic analysis**, **Markov models**, and **media data mining**. Applied **predictive analytics** and **cellular automata** to simulate land-use and transportation patterns, providing city planners with real-time insights.  
   **Methods:** Cellular automata, predictive modeling, geospatial analysis, big data mining.
 
-**[Environmental Impact Forecasting](link-to-repo):** Modeled **land-use changes** and **environmental impacts** using **self-organizing maps (SOMs)** and **remote sensing**. Analyzed 200 years of wetland transformation, providing insights into urban expansion and climate change.  
+  **[Environmental Impact Forecasting](link-to-repo):** Modeled **land-use changes** and **environmental impacts** using **self-organizing maps (SOMs)** and **remote sensing**. Analyzed 200 years of wetland transformation, providing insights into urban expansion and climate change.  
   **Methods:** SOMs, remote sensing, time-series analysis, machine learning for environmental impacts.
 
-**[Market Dynamics and Spatial Economics](link-to-repo):** Built a framework for **market competition assessment** using **spatial econometrics** and **GIS**. Conducted retail location optimization and market share analysis through **spatial regression models**, **point pattern analysis**, and **Voronoi diagrams**.  
+  **[Market Dynamics and Spatial Economics](link-to-repo):** Built a framework for **market competition assessment** using **spatial econometrics** and **GIS**. Conducted retail location optimization and market share analysis through **spatial regression models**, **point pattern analysis**, and **Voronoi diagrams**.  
   **Methods:** Spatial econometrics, regression models, point pattern analysis, Voronoi diagrams, GIS.
 
-**[Predicting Public Health Outcomes](link-to-repo):** Developed predictive models integrating **machine learning** with **spatial analysis** to study the relationship between environmental factors and public health outcomes. Applied **logistic regression**, **support vector machines (SVMs)**, and **spatial autoregressive models** to map correlations between land-use patterns and health.  
+  **[Predicting Public Health Outcomes](link-to-repo):** Developed predictive models integrating **machine learning** with **spatial analysis** to study the relationship between environmental factors and public health outcomes. Applied **logistic regression**, **support vector machines (SVMs)**, and **spatial autoregressive models** to map correlations between land-use patterns and health.  
   **Methods:** Logistic regression, SVM, SAR models, public health data analysis.
 
-**[Climate Change and Resource Management](link-to-repo):** Forecasted climate change impacts on resource allocation and urban planning using **quantum machine learning** and **multi-scenario simulations**. Applied **ensemble learning** and **decision tree algorithms** to model future climate scenarios.  
+  **[Climate Change and Resource Management](link-to-repo):** Forecasted climate change impacts on resource allocation and urban planning using **quantum machine learning** and **multi-scenario simulations**. Applied **ensemble learning** and **decision tree algorithms** to model future climate scenarios.  
   **Methods:** Quantum machine learning, ensemble learning, decision trees, multi-scenario simulations.
 
-**[Transportation Optimization and Spatial Data Efficiency](link-to-repo):** Designed advanced algorithms to optimize transportation networks and enhance spatial data efficiency. Applied **graph theory**, **Dijkstra's algorithm**, and **multi-criteria decision analysis (MCDA)** to streamline routes and reduce computational load in large datasets.  
+  **[Transportation Optimization and Spatial Data Efficiency](link-to-repo):** Designed advanced algorithms to optimize transportation networks and enhance spatial data efficiency. Applied **graph theory**, **Dijkstra's algorithm**, and **multi-criteria decision analysis (MCDA)** to streamline routes and reduce computational load in large datasets.  
   **Methods:** Graph theory, Dijkstra’s algorithm, MCDA, spatial data compression, real-time GIS integration.
 
-**[Regional Decision Support Systems and Smart Governance](link-to-repo):** Developed decision support systems for regional planning using **spatial decision support systems (SDSS)** and **AI-driven policy analysis**. Integrated **real-time geospatial data** and **multi-agent systems** to support transparent, data-driven governance.  
+  **[Regional Decision Support Systems and Smart Governance](link-to-repo):** Developed decision support systems for regional planning using **spatial decision support systems (SDSS)** and **AI-driven policy analysis**. Integrated **real-time geospatial data** and **multi-agent systems** to support transparent, data-driven governance.  
   **Methods:** SDSS, AI for policy analysis, multi-agent systems, real-time geospatial data, smart governance algorithms.
 
 ---
-**Books:**
+### 📚 **Books**
 
 <p align="center">
   <a href="link-to-book-details-1">
@@ -76,7 +76,7 @@ This repository highlights my research work across **Geospatial Data Science**, 
 
 ---
 
-**Publications:**
+### 📝 **Publications**
 You can find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=EfpbSEYAAAAJ&hl=en)
 
 ---
