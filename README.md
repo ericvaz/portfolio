@@ -63,10 +63,6 @@ This repository highlights my research work across **Geospatial Data Science**, 
   </a>
 </p>
 
-<p align="center" style="font-size:8px;">
-  Regional Intelligence | Geography of Happiness | Regional and Urban Change and Geographical Information Systems and Science | Sustainable Development in Southern Europe | Resilience and Regional Dynamics
-</p>
-
 
 ---
 
