@@ -47,7 +47,7 @@ This repository highlights my research work across **Geospatial Data Science**, 
 
 <p align="center">
   <a href="link-to-book-details-1">
-    <img src="link-to-book-cover-image-1" alt="Book Title 1" width="150"/>
+    <img src="https://github.com/ericvaz/portfolio/blob/main/1.jpg" alt="Regional Intelligence" width="150"/>
   </a>
   <a href="link-to-book-details-2">
     <img src="link-to-book-cover-image-2" alt="Book Title 2" width="150"/>
